@@ -46,9 +46,9 @@ Alternatively, clone the sample project to your local machine and show the page.
 
 ## Implementing GitLab Pages
 
-### For batches experiencing the credit card verification issue in Gitlab Pages [https://about.gitlab.com/blog/2021/05/17/prevent-crypto-mining-abuse/]
+**For batches experiencing the credit card verification issue in Gitlab Pages [https://about.gitlab.com/blog/2021/05/17/prevent-crypto-mining-abuse/]**
 
-![Credit Card Verification][readme-images/2021-05-20.png]
+![Credit Card Verification](readme-images/2021-05-20.png)
 
 **Proceed to the Github Deployment section**
 
