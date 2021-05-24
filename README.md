@@ -117,9 +117,9 @@ This is the workaround used to solve the situation implemented by GitLab to requ
 1. Go to the repository's `Settings Tab` and click on `Pages`
    ![readme-images/settings.png][readme-images/settings.png]
 1. Select the `master branch as the Source` and `root` as your root folder.
-   ![readme-images/gh_pages.png][readme-images/gh_pages.png]
+   ![readme-images/gh_pages.png](readme-images/gh_pages.png)
 1. Click on Save. Doing this will deploy the project and will create a new link.
-   ![readme-images/gh_url.png][readme-images/gh_url.png]
+   ![readme-images/gh_url.png](readme-images/gh_url.png)
 
 # Instructor Notes
 
