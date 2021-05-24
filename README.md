@@ -120,7 +120,7 @@ This is the workaround used to solve the situation implemented by GitLab to requ
    ![readme-images/gh_pages.png](readme-images/gh_pages.png)
 1. Click on Save. Doing this will deploy the project and will create a new link.
    ![readme-images/gh_url.png](readme-images/gh_url.png)
-1. Sample Output: ![https://quimpocharles.github.io/webportfolio/](https://quimpocharles.github.io/webportfolio/)
+1. Sample Output: [https://quimpocharles.github.io/webportfolio/]
 
 # Instructor Notes
 
