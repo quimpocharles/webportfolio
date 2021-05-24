@@ -97,25 +97,25 @@ This is the workaround used to solve the situation implemented by GitLab to requ
 1. Create a Github account [https://github.com/join]
 1. Login to your Github account [https://github.com/login]
 1. In your `Personal (Dashboard)`, click on the `Start a Project` button.
-   ![Github Dashboard][readme-images/gh_dash.png]
+   ![Github Dashboard](readme-images/gh_dash.png)
 1. Add `webportfolio` as your repository name.
-   ![repository details][readme-images/rep_name.png]
+   ![repository details](readme-images/rep_name.png)
 1. Set the visibility level for the repository to `Public`
-   ![repository details][readme-images/pub.png]
+   ![repository details](readme-images/pub.png)
 1. Click on `Create Repository`
-   ![repository details][readme-images/repo.png]
+   ![repository details](readme-images/repo.png)
 1. Copy the repository's `HTTPS URL`
-   ![repository details][readme-images/url.png]
+   ![repository details](readme-images/url.png)
    **Optional: Add an SSH Key for your Github Account [https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account]**
 1. Open your Terminal/Gitbash and go to your project folder
 1. Run the command `git remote -v` to check the aliases and URLs associated with your local project.
-   ![repository details][readme-images/terminal.png]
+   ![repository details](readme-images/terminal.png)
 1. Add the Github remote repository by executing the command `git remote add github <paste the url from the Github repository>`. This will add an alias called github to your local project which represents the URL to your Github repository.
-   ![repository details][readme-images/git_repo.png]
+   ![repository details](readme-images/git_repo.png)
 1. Push the project to your github repository.
-   ![repository details][readme-images/git_push.png]
+   ![repository details](readme-images/git_push.png)
 1. Go to the repository's `Settings Tab` and click on `Pages`
-   ![readme-images/settings.png][readme-images/settings.png]
+   ![readme-images/settings.png](readme-images/settings.png)
 1. Select the `master branch as the Source` and `root` as your root folder.
    ![readme-images/gh_pages.png](readme-images/gh_pages.png)
 1. Click on Save. Doing this will deploy the project and will create a new link.
